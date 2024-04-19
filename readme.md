@@ -1,7 +1,5 @@
 # Coffee Store Server
 
-## Overview
-
 This server application is designed to manage a coffee store's backend operations.
 
 ## Features
